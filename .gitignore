@@ -1,0 +1,34 @@
+# ============================================
+# Android / Gradle
+# ============================================
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+*.apk
+*.aab
+*.ap_
+*.dex
+captures/
+.externalNativeBuild/
+.cxx/
+*.hprof
+
+# ============================================
+# PlatformIO
+# ============================================
+.pio/
+.vscode/
+
+# ============================================
+# OS / Editor
+# ============================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.code-workspace

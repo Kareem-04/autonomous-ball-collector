@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Leave broad during development. Add vendor-id/product-id later for your ESP32 USB interface. -->
+</resources>
