@@ -38,11 +38,13 @@
 ### 📱 Android App
 
 <table>
+  <center>
   <tr>
     <td align="center"><img src="docs/media/app_screenshot_1.jpg" width="200" alt="App UI 1"/></td>
     <td align="center"><img src="docs/media/app_screenshot_3(1).jpg" width="200" alt="App UI 3"/></td>
     <td align="center"><img src="docs/media/app_screenshot_4.jpg" width="200" alt="App UI 4"/></td>
   </tr>
+  </center> 
 </table>
 
 ### 🔧 Build Environment
