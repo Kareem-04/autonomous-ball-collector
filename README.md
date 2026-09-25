@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/ML-YOLOv8-red?logo=tensorflow" alt="YOLOv8"/>
     <img src="https://img.shields.io/badge/Drive-Mecanum_4WD-orange" alt="Mecanum"/>
     <img src="https://img.shields.io/badge/Tracking-UWB_PDoA-purple" alt="UWB"/>
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="MIT"/>
   </p>
 </p>
 
@@ -318,6 +317,16 @@ For full technical details, see [**Detailed Technical Document**](docs/detailed_
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+## 👥 Team
+
+**Kareem Shaban Eid** — Mechatronics Engineering Student, E-JUST  
+[LinkedIn](https://linkedin.com/in/kareem-04-soliman) · [GitHub](https://github.com/Kareem-04)  
+
+**Mahmoud Alaa** — Mechatronics Engineering Student, E-JUST  
+**Mariam Nasr** — Mechatronics Engineering Student, E-JUST  
+**Al zahraa Khattab** — Mechatronics Engineering Student, E-JUST  
+**Aisha Mostafa** — Mechatronics Engineering Student, E-JUST  
+**Malak Ashraf** — Mechatronics Engineering Student, E-JUST  
+
+*Supervised by Prof. Mohamed Alkalla*
