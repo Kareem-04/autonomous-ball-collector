@@ -325,9 +325,21 @@ For full technical details, see [**Detailed Technical Document**](docs/detailed_
 [LinkedIn](https://linkedin.com/in/kareem-04-soliman) · [GitHub](https://github.com/Kareem-04)  
 
 **Mahmoud Alaa** — Mechatronics Engineering Student, E-JUST  
-**Mariam Nasr** — Mechatronics Engineering Student, E-JUST  
-**Al zahraa Khattab** — Mechatronics Engineering Student, E-JUST  
-**Aisha Mostafa** — Mechatronics Engineering Student, E-JUST  
-**Malak Ashraf** — Mechatronics Engineering Student, E-JUST  
+[LinkedIn](https://www.linkedin.com/in/mahmoud-a-ab2134340)
 
-*Supervised by Prof. Mohamed Alkalla*
+**Mariam Nasr** — Mechatronics Engineering Student, E-JUST  
+[LinkedIn](https://www.linkedin.com/in/mariam-nasr-246262222)
+
+**Al zahraa Khattab** — Mechatronics Engineering Student, E-JUST  
+[LinkedIn](https://www.linkedin.com/in/al-zahraa-khattab)
+
+**Aisha Mostafa** — Mechatronics Engineering Student, E-JUST  
+[LinkedIn](https://www.linkedin.com/in/aisha-ramadan)
+
+**Malak Ashraf** — Mechatronics Engineering Student, E-JUST  
+[LinkedIn](https://www.linkedin.com/in/malak-ashraf-2481a6320)
+
+
+*Supervised by Prof. Mohamed Alkalla*  
+[LinkedIn](https://www.linkedin.com/in/mohamed-alkalla)
+
